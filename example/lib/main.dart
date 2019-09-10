@@ -12,7 +12,7 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  static const CLIENT_ID = '02e03b8b04b94fdb8a69c955a1aab8df';
+  static const CLIENT_ID = '';
   String _mAccessToken = 'Unknown';
   String pkgName = 'io.github.aliyazdi75.flutter_spotify_auth_example';
 
