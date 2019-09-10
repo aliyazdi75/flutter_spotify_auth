@@ -1,6 +1,0 @@
-configurations.maybeCreate("default")
-
-dependencies {
-    compile project(path: ':')
-}
-artifacts.add("default", file('spotify-auth-release-1.1.0.aar'))
