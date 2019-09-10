@@ -1,0 +1,2 @@
+rootProject.name = 'flutter_spotify_auth'
+include ':spotify-auth-release-1.1.0'

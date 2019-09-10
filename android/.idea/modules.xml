@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/flutter_spotify_auth.iml" filepath="$PROJECT_DIR$/flutter_spotify_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotify-auth-release-1.1.0/spotify-auth-release-1.1.0.iml" filepath="$PROJECT_DIR$/spotify-auth-release-1.1.0/spotify-auth-release-1.1.0.iml" />
+    </modules>
+  </component>
+</project>
